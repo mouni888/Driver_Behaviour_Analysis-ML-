@@ -1,4 +1,4 @@
-# Driver behavior classification using machine learning is a challenging and important task that   has applications in a variety of areas, such as automotive safety, driver assistance systems, and insurance.
+# Driver Behavior Classification using machine learning is a challenging and important task that   has applications in a variety of areas, such as automotive safety, driver assistance systems, and insurance.
 The goal is to use machine learning algorithms to classify the behavior of drivers based on data collected from various sensors and sources, such as cameras, GPS, accelerometers, and other vehicle sensors.
 # The first step in driver behavior classification is to collect data from different sensors and sources. 
 This data can be preprocessed and cleaned to remove noise, outliers, and irrelevant features.
